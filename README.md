@@ -1,4 +1,4 @@
-# 📌 Ataln Data Explorer
+# 📌 Ataln Data Explorer - https://vamsikaja-atlan.netlify.app/
 
 🚀 **Atlan Data Explorer** is a web application that allows users to explore and query data from different tables effortlessly.
 
@@ -67,3 +67,11 @@ npm run preview
 ```
 
 Now, open http://localhost:4173/ in your browser. 🎉
+
+
+## 🚀 Performance Metrics (Average)
+- ⚡ Largest Contentful Paint (LCP): 1.77s
+- 🎯 Cumulative Layout Shift (CLS): 0
+- ⚡ Interaction to Next Paint (INP): 35ms
+- ⏳ [WIP] Time to Meaningful Content: Measuring using performance marks
+- 📊 **Used Virtualization to efficiently render large data tables without performance issues.**
