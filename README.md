@@ -13,6 +13,9 @@
 - ✅ **Virtualized Table Rendering** – Handles large datasets smoothly
 - ✅ **Modern Frontend Stack** – Built using **Vite, React, and TypeScript** for speed and maintainability.
 
+## 📹 Demo Video
+https://drive.google.com/file/d/1g_aVKJPf9sNQtNQ34vTBsDKeLUlpMQnH/view?usp=sharing
+
 ---
 
 ## 🔧 Tech Stack
