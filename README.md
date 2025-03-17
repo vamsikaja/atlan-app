@@ -8,10 +8,10 @@
 
 ## ✨ Features
 
-✅ **Custom SQL Query Execution** – Write and execute raw SQL queries.  
-✅ **Table & Column Selection** – Choose tables and columns dynamically without SQL knowledge.  
-✅ **Virtualized Table Rendering** – Handles large datasets smoothly
-✅ **Modern Frontend Stack** – Built using **Vite, React, and TypeScript** for speed and maintainability.
+- ✅ **Custom SQL Query Execution** – Write and execute raw SQL queries.  
+- ✅ **Table & Column Selection** – Choose tables and columns dynamically without SQL knowledge.  
+- ✅ **Virtualized Table Rendering** – Handles large datasets smoothly
+- ✅ **Modern Frontend Stack** – Built using **Vite, React, and TypeScript** for speed and maintainability.
 
 ---
 
