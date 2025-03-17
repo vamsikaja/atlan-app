@@ -1,4 +1,4 @@
-# 📌 Ataln Data Explorer - <a href="https://vamsikaja-atlan.netlify.app/" target="_blank" rel="noopener noreferrer">https://vamsikaja-atlan.netlify.app/</a>
+# 📌 Ataln Data Explorer - https://vamsikaja-atlan.netlify.app
 
 
 🚀 **Atlan Data Explorer** is a web application that allows users to explore and query data from different tables effortlessly.
